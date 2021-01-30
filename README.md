@@ -1,5 +1,7 @@
 # Estimation Project #
 
+Please go to the student [Writeup](https://github.com/rcgonzsv/P4-FCND-Build-Estimator/blob/master/writup.pdf) for detailed information about the implemementation.
+
 Welcome to the estimation project.  In this project, you will be developing the estimation portion of the controller used in the CPP simulator.  By the end of the project, your simulated quad will be flying with your estimator and your custom controller (from the previous project)!
 
 This README is broken down into the following sections:
